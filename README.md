@@ -11,3 +11,8 @@
 
 [実行結果はこちら](./result.csv "実行結果")
 
+![控除額](./koujo-linear.png)
+
+![2000万円までの詳細](./koujo2000-linear.png)
+
+![税率](./zeiritu.png)
